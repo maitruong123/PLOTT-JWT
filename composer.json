@@ -1,0 +1,18 @@
+{
+    "name": "plott/jwt",
+    "description": "Json Web Token",
+    "authors": [
+        {
+            "name": "Mai Truong",
+            "email": "m-truong@plott.co.jp"
+        }
+    ],
+    "require": {
+        "firebase/php-jwt": "^5.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Plott\\JWT\\": "src"
+        }
+    }
+}
