@@ -10,6 +10,7 @@
     "require": {
         "firebase/php-jwt": "^5.4"
     },
+    "license": "proprietary",
     "autoload": {
         "psr-4": {
             "Plott\\JWT\\": "src"
