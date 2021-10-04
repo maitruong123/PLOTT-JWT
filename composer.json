@@ -15,5 +15,6 @@
         "psr-4": {
             "Plott\\JWT\\": "src"
         }
-    }
+    },
+    "minimum-stability": "dev"
 }
